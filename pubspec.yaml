@@ -1,0 +1,11 @@
+name: chototpi_flutter_ios_ready
+version: 1.0.0+1
+environment:
+  sdk: '>=2.17.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.0.7
+  cupertino_icons: ^1.0.2
+flutter:
+  uses-material-design: true
